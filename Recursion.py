@@ -1,6 +1,6 @@
 
 """ usually when we can use a loop we can also use recursion """
-""" recursion is mostly a tool that allows us to write clearner more elegent code """
+""" recursion is mostly a tool that allows us to write cleaner more elegent code """
 
 
 def factorial(n):
